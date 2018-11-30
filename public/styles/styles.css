@@ -1,0 +1,332 @@
+.list-group-item {
+  line-height: 2.5;
+}
+
+
+.jumbotron {
+  background: rgba(0,0,0,0);
+  /* color:white; */
+}
+
+.modal {
+  color: black;
+}
+
+.btn {
+  color:white;
+  background:#00adb5;
+  border: 1px solid white;
+
+}
+
+.itemsRent{
+  width: 23rem;
+  background: rgba(0,0,0,0); 
+  /* opacity:0.95;  */
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+#rentModal{
+  /* opacity:0.9; */
+  text-align: center;
+  color: gray;
+}
+
+#rentModalFooter{
+  background-color:orange;
+  border-color: orange; 
+  color: black;
+}
+
+.cards-wrap {
+  margin-top: 10%;
+}
+.item-card {
+  position: relative;
+  background: rgba(0,0,0,.7);
+  color: #000;
+}
+.price-wrap {
+  position: absolute;
+  right: -32px;
+  top: -24px;
+  width: 75px;
+  height: 75px;
+  background-color: #00adb5;
+  border: 3px solid #fff;
+  border-radius: 100%;
+  padding-top: 20px;
+  padding-left: 6px;
+  color: #fff;
+  font-size: 22px;
+}
+
+#account-form, .header-wrap, #create-form, .create-acct-wrap {
+  padding: 20px;
+  border-radius: 15px;
+  margin: 20px 0;
+}
+
+#update-err-msg{
+  color: red !important;
+}
+
+
+#create-err-msg{
+  color: red !important;
+}
+
+#go-home{
+width: auto;
+height: 65px;
+}
+
+.container {
+  padding-bottom: 2%;
+  margin-top: 10%;
+  background: rgba(86, 101, 115,.6);
+  height:100%;
+  border-radius: .25rem;
+  margin-bottom: 2%;
+}
+
+.card-body {
+  
+  color: white;
+}
+
+.card-img-top {
+  width: 70%;
+  background: white;
+  margin-top: 22px;
+}
+.card-title {
+  font-size: 1.8em;
+}
+
+[data-search="true"] {
+  color:white !important;
+}
+[data-post="true"] {
+  color:white !important;
+}
+[data-account="true"] {
+  color:white !important;
+}
+[data-signup="true"] {
+  color:white !important;
+}
+
+.lead {
+
+font-size: 1.8rem;
+font-weight: 500;
+}
+.accountID h2, .header-wrap h1 {
+  text-transform: capitalize;
+}
+hr {
+  background-color: #fff !important;
+}
+=======
+#golfBall {
+  width: 105px;
+  height: 93px;
+  position: absolute;
+  bottom: -78px;
+}
+
+.containerWelcome {
+  height: 200px;
+  width: 200px;
+}
+
+#top {
+  height: 200px;
+  width: 200px;
+  height: 231px;
+  width: 100%;
+}
+
+.topNav {
+  background: black!important;
+  height: 93px;
+}
+
+#welcomePage {
+  position: absolute;
+  margin-left: 505px;
+  color: wheat;
+  margin-top: 105px;
+}
+
+.backBody {
+  background: lightcyan;
+}
+
+.row {
+margin-left: 510px;
+}
+
+#enter {
+  text-align: center;
+}
+
+#introButton {
+  background: black;
+}
+
+.textCenter {
+  text-align: center
+}
+
+.theView {
+  width: 80%;
+  height: 250px;
+  margin-left: 155px;
+}
+
+#selectCourse {
+  text-align: center;
+}
+
+#overHead {
+  width: 600px;
+  height: 300px;
+  margin-left: 30%;
+}
+
+.titleH3 {
+  text-align: center;
+}
+
+.tableTop {
+  background: black;
+  color: white;
+}
+
+.tableRed {
+  background: red;
+}
+
+.tableWhite {
+  background: white;
+}
+
+#scoreCard {
+  width: 1060px;
+  margin-left: 235px;
+}
+
+#scoreTable {
+  background: blue;
+}
+.preview {
+  width: 300px;
+  height: 200px;
+}
+
+#thePreview {
+  position: relative;
+  right: 225px;
+}
+
+.otherModal {
+  width: 300px;
+  height: 250px;
+}
+.modal-content {
+  width: 1498px;
+  position: relative;
+  right: 534px;
+}           
+
+.pink.darken-1 {
+  margin-bottom: 10px;
+  background: red!important;
+}
+
+.holeNumber {
+  padding: 5px;
+  background: red;
+  text-align: center;
+  position: relative;
+  width: 300px;
+  bottom: 67px;
+}
+
+#introImage {
+  width: 100%;
+  height: 225px;
+  margin-top: 14px
+}
+
+
+.weatherwidget-io {
+  width: 75%;
+  margin-left: 154px;
+  display: block;
+  position: relative;
+  height: 111px;
+  padding: 0px;
+  overflow: hidden;
+  text-align: left;
+  text-indent: -299rem;
+  bottom: 69px;
+  height: 71px;
+  margin-right: 128px;
+  right: 14px;
+}
+
+nav a {
+  margin-top: 15px;
+}
+
+.page-footer {
+  background: black;
+}
+
+.lineRed {
+  padding: 1px;
+  background: red;
+}
+
+.static {
+  width: 80%;
+  height: 250px;
+  margin-left: 155px;
+}
+
+.static:hover {
+  opacity:0;
+  width: 80%;
+  height: 250px;
+  margin-left: 155px;
+}
+
+.active {
+  width: 80%;
+  height: 250px;
+  position: absolute;
+  z-index: -1;
+  right: 149px;
+}
+
+#buttonContainer{
+  margin-left: 615px;
+}
+
+#bodyContainer {
+  width: 1450px;
+  margin-bottom: 36px;
+  margin-left: 35px;
+  margin-top: 35px;
+  background: lightgray;
+}
+
+.introParagraph {
+  margin-left: 30px
+}
+
