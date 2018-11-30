@@ -8,6 +8,7 @@ Golf is traditionally looked at as an 'old mans' game. BY building this project 
 My main focus for this project was the styling, we had so many moving that unfortunately some of my design had to be scaled back like gifs due to the nature of this app and the time we actually had. But I'm very pleased on how this turned out.
 
 Heroku link  https://mighty-citadel-26606.herokuapp.com/
+Link to my portfolio  https://blznk128.github.io/#portfolioJump
 
     Technology Used
 
