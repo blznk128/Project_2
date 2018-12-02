@@ -3,9 +3,9 @@ The Green Man Group
 
 The purpose of the project is to bring the game of golf to the common person. We wanted to simplify a complex game. We bring the course to you. We have incorporated the layout of the course, a scoring system, and a personal tracking document to improve the enjoyment of the game.
 
-Golf is traditionally looked at as an 'old mans' game. BY building this project we are trying to open it to a new generation. We put the location of the courses on your device. The application will show gps, distance, and average hole out. The user can track their score on individual holes, specific courses, and their scores for both will be kept for future reference. Currently we can track local courses. In the near, future we will have national and international courses available for a small fee. 
+Golf is traditionally looked at as an 'old mans' game. By building this project we are trying to open it to a new generation. We put the location of the courses on your device. The application will show gps, distance, and average hole out. The user can track their score on individual holes, specific courses, and their scores for both will be kept for future reference. Currently we can track local courses. In the near, future we will have national and international courses available for a small fee. 
 
-My main focus for this project was the styling, we had so many moving that unfortunately some of my design had to be scaled back like gifs due to the nature of this app and the time we actually had. But I'm very pleased on how this turned out.
+My main focus for this project was the styling, we had so many moving parts that unfortunately some of my design had to be scaled back like gifs due to the nature of this app and the time we actually had. But I'm very pleased on how this turned out.
 
 Heroku link  https://mighty-citadel-26606.herokuapp.com/
 Link to my portfolio  https://blznk128.github.io/#portfolioJump
@@ -21,8 +21,6 @@ Javascript - the programming language
 Materialize- CSS framework
 
 Golfbert - API
-
-Gifi
 
 Passport - authentication middle-wear
 
